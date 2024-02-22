@@ -1,2 +1,2 @@
-# sample.Html
-This is my first github project
+# sample.demo
+This is my first github repository
